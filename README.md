@@ -1,18 +1,18 @@
 # Nome do projeto
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+O projeto consiste em uma plataforma de avaliação de filmes, séries e mídia audiovisual de cinema e plataformas de streaming, em que o usuário avaliaria com estrelas e daria uma opnião sobre o conteúdo consumido, permitindo que outras pessoas possoas possam pesquisar e ver informações sinceras sobre a mídia, sendo uma avaliação de fã para fã.
 
 ## Alunos integrantes da equipe
 
 * Arthur Erico Coelho Costa
 * Lilith Fernandes Patrocinio
-* Arthur Faria Ottoni
-* Nome completo do aluno 4
+* Arthur Faria Ottoni 
+* Luis Otavio de Paula
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Pedro Felipe Alves de Oliveira
+* Caroline Rhaian da Silva Jandre
 
 ## Instruções de utilização
 
